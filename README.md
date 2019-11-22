@@ -21,7 +21,7 @@ Included in this repository are:
 - 1. Problem Statement
 - 2. Business Value
 - 3. Methodology
-- 4. Predicted Modeling
+- 4. Predictive Modeling
 - 5. Business Application
 - 6. Conclusions
 - 7. Future Work
